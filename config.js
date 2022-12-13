@@ -9,16 +9,16 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['923032112917', '👑 Nobita - Creador 👑', true],
-  ['642737314131', '💫 Nobita - Collaborator 1 💫', true],
-  ['642737314131', '💫 Nobita - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['573225236629', '💫 Mystic - Collaborator 4 💫', true],
-  ['593959425714', '💫 Mystic - Collaborator 5 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 6 💫', true],  
-  ['593968585283'],
-  ['5219993404349'],
-  //['593968585383'],	
-  ['5219996125657']
+  ['923032112917', '💫 Nobita - Collaborator 1 💫', true],
+  ['923032112917', '💫 Nobita - Collaborator 2 💫', true],
+  ['923032112917', '💫 Mystic - Collaborator 3 💫', true],
+  ['923032112917', '💫 Mystic - Collaborator 4 💫', true],
+  ['923032112917', '💫 Mystic - Collaborator 5 💫', true],
+  ['923032112917', '💫 Mystic - Collaborator 6 💫', true],  
+  ['923032112917'],
+  ['923032112917'],
+  //['923032112917'],	
+  ['923032112917']
 ] 
 
 global.suittag = ['923032112917'] 
